@@ -29,6 +29,7 @@
                 android:text="1"
                 android:textSize="10sp"
                 android:textStyle="bold"
+                android:textColor="@color/material_dynamic_neutral30"
                 tools:ignore="HardcodedText" />
 
 
@@ -50,7 +51,7 @@
 
             <TextView
                 android:id="@+id/english_name"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:textStyle="bold"
                 android:text="fathia"
                 android:textColor="@color/black"
@@ -73,7 +74,7 @@
 
         <TextView
             android:id="@+id/arabic_name"
-            android:textSize="20sp"
+            android:textSize="16sp"
             android:textStyle="bold"
             android:text="fathia"
             android:layout_margin="16sp"
